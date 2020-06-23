@@ -1,7 +1,8 @@
 import Vue from 'vue'
 import App from './App.vue'
 import './registerServiceWorker'
-import "picnic/picnic.min.css";
+
+import 'bulma/css/bulma.css'
 
 Vue.config.productionTip = false
 
