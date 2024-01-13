@@ -151,7 +151,7 @@
         </div>
       </div>
       <div class="content pt-4 has-text-white is-size-5">
-        <h3 class="has-text-white">简易规则</h3>
+        <h3 class="has-text-white">游戏规则</h3>
         <ul>
           <li>排除大小鬼和 2</li>
           <li>开局每人发 5 张手牌</li>
