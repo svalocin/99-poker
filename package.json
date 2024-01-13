@@ -7,6 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@uriopass/nosleep.js": "^0.12.2",
     "bulma": "^0.9.0",
     "core-js": "^3.6.5",
     "lodash": "^4.17.15",
