@@ -145,7 +145,7 @@
               class="button is-black is-medium is-responsive is-size-5 is-fullwidth is-danger is-outlined has-text-white"
               @click="full"
             >
-              K
+              K(99)
             </button>
           </div>
         </div>
